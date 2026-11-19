@@ -1,6 +1,0 @@
-Python is a programming language.
-Click here
-Python is widely used in Artificial Intelligence.
-Machine Learning is a subset of Artificial Intelligence.
-Deep Learning uses neural networks.
-WELCOME TO MY WEBSITE!!!
